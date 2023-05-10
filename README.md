@@ -1,6 +1,9 @@
 # IrisAuth: A Cross-domain SSO Service with Go Iris
 
 
+NOTICE: This repository is moved to https://github.com/osuYukiharuPrivateServer/IrisAuth. We will update the later versions there.
+
+
 NOTICE: Please don't try this directly in production environment unless adding on encrypting functions in login.html, register.html.
 
 
